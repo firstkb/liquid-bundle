@@ -14,12 +14,7 @@
   "require": {
     "php": ">=7.1",
     "liquid/liquid": "^1.4",
-    "symfony/config": "^4.3",
-    "symfony/http-foundation": "^4.3",
-    "symfony/http-kernel": "^4.3",
-    "symfony/polyfill-ctype": "^1.12",
-    "symfony/dependency-injection": "^4.3",
-    "symfony/console": "^4.3"
+    "symfony/http-kernel": "^4.3"
   },
   "autoload": {
     "psr-4": {
