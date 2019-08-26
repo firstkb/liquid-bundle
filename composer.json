@@ -1,5 +1,5 @@
 {
-  "name": "codemade-xyz/liquid-bundle",
+  "name": "firstkb/liquid-bundle",
   "description": "Make template Liquid in Symfony",
   "type": "symfony-bundle",
   "license": "proprietary",
